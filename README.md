@@ -4,7 +4,7 @@ Practice Project that was done following th I-Neuron Data science course, not an
 
 Basically an basic flask application that scraps an flipkart page of the enterd keywords and displays the reviews as its results.
 
-#Working
+# Working
 
 ![alt text](https://github.com/bmaneesh2000/WebScraping/blob/main/Intro.png?raw=true)
 
