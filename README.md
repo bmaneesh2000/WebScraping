@@ -13,4 +13,4 @@ Basically an basic flask application that scraps an flipkart page of the enterd 
 
 Note:
 
-This is not an original project but practice
+This is not an original project by my self but practice
