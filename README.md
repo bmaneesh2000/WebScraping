@@ -11,6 +11,6 @@ Basically an basic flask application that scraps an flipkart page of the enterd 
 ![alt text](https://github.com/bmaneesh2000/WebScraping/blob/main/revs.png?raw=true)
 
 
-Note:
+# Note:
 
-This is not an original project by my self but practice
+This is not an original project by myself but practice
